@@ -1,0 +1,13 @@
+{
+    "name": "sbogx/dom-crawler-disabled",
+    "require": {
+        "symfony/dom-crawler": "^3.4",
+        "symfony/css-selector": "^3.4"
+    },
+    "authors": [
+        {
+            "name": "Bogdan Scordaliu",
+            "email": "bogdan.scordaliu@gmail.com"
+        }
+    ]
+}
